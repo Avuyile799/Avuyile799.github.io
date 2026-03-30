@@ -71,3 +71,9 @@ Set up and configured virtual machines to deploy and test applications.
 ### Elam Zono – Student  
 📧 elamzono862@gmail.com  
 📞 063 420 1330
+
+
+## Mock Interview Video
+
+[Watch my Mock Interview](mock-interview.mp4)
+https://github.com/Avuyile799/Avuyile799.github.io/commit/e5e01535f012ac78e1c434f598569f3c87d4733c
