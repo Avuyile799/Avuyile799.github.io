@@ -7,7 +7,12 @@
 📧 240763394@mycput.ac.za  
 
 🔗 LinkedIn: https://www.linkedin.com/in/kungentandoavuyile-97756b352  
-🔗 GitHub: https://github.com/Avuyile799  
+🔗 GitHub: https://github.com/Avuyile799
+
+## Mock Interview Video
+[Watch my Mock Interview]Mock Video.mp4
+https://github.com/Avuyile799/Avuyile799.github.io/commit/e5e01535f012ac78e1c434f598569f3c87d4733c
+
 
 ---
 
@@ -73,7 +78,3 @@ Set up and configured virtual machines to deploy and test applications.
 📞 063 420 1330
 
 
-## Mock Interview Video
-
-[Watch my Mock Interview](mock-interview.mp4)
-https://github.com/Avuyile799/Avuyile799.github.io/commit/e5e01535f012ac78e1c434f598569f3c87d4733c
